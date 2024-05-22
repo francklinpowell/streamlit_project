@@ -176,6 +176,8 @@ Conclusion
 Le code source fournit une application web interactive qui permet aux utilisateurs de visualiser et d'analyser les performances des campagnes publicitaires par différents acteurs. Les utilisateurs peuvent filtrer les données, afficher les principaux indicateurs de performance et examiner plusieurs graphiques interactifs pour mieux comprendre les résultats des campagnes.
 
 
+
+
 <p>
 <strong> 
 <li>Le Dockerfile : </li>
@@ -184,5 +186,25 @@ Le code source fournit une application web interactive qui permet aux utilisateu
 
 <img width="535" alt="Capture d'écran 2024-05-22 192608" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/26467a29-bea8-41f5-8593-f69f6d44bddd">
 
+<br>
+<p>
+<strong> 
+Commandes basiques de Docker en ligne de commande 
+</strong>
+</p>
+<img width="441" alt="Capture d'écran 2024-05-21 171844" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/81862c4c-dd09-48ef-b468-f52e4a7b086d">
+<img width="613" alt="Capture d'écran 2024-05-21 171907" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/7dfb1ab8-579f-465d-a8c7-9ba8797ac03f">
+<img width="667" alt="Capture d'écran 2024-05-21 171937" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/abc513ee-03c0-45e8-99ad-b9665f7d5d9e">
+<img width="397" alt="Capture d'écran 2024-05-21 172044" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/6ebf0495-b460-42b7-8296-f1fe25aea396">
+<img width="755" alt="Capture d'écran 2024-05-21 172159" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/df0aee4f-aed0-40d0-90f1-20350186968d">
 
 
+
+
+<strong>II. Déploiement de mon application Web Streamlit sur Docker </strong>
+<img width="739" alt="Capture d'écran 2024-05-22 084241" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/311a481c-1a70-40bf-bf80-7813ed44a8ce">
+
+<br>
+<p>
+Cette commande construit une image Docker à partir d'un Dockerfile situé dans le répertoire courant et tague cette image avec le nom francklinprojetstreamlit. Une fois l'image construite, nous pouvez l'exécuter, la partager ou la déployer dans un environnement Docker.
+</p>
