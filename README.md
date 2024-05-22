@@ -73,3 +73,11 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 <li>Lecture des Données : </li>
 </strong>
 </p>
+
+<p>
+<strong>
+<ul> 
+3. Lecture des données Excel :
+</ul>
+</p>
+</strong>
