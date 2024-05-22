@@ -88,3 +88,9 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 </strong>
 </p>
 
+<p>
+<strong>
+4. Barre latérale (Sidebar) : 
+</p>
+</strong>
+<li>Ajout d'une fonctionnalité de filtrage pour sélectionner les acteurs spécifiques à partir d'une liste déroulante. </li> 
