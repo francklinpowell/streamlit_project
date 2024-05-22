@@ -105,7 +105,7 @@ Filtrage et Calculs :
 
 <p>
 <strong>
-Filtrage des données : 
+5. Filtrage des données : 
 </p>
 </strong>
 <li>Filtrage des données en fonction des acteurs sélectionnés. </li> 
