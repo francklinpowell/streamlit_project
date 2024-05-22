@@ -209,7 +209,7 @@ Commandes basiques de Docker en ligne de commande
 
 
 <p>
-Cette commande construit une image Docker à partir d'un Dockerfile situé dans le répertoire courant et tague cette image avec le nom francklinprojetstreamlit. Une fois l'image construite, nous pouvez l'exécuter, la partager ou la déployer dans un environnement Docker.
+Cette commande construit une image Docker à partir d'un Dockerfile situé dans le répertoire courant et tague cette image avec le nom francklinprojetstreamlit. Une fois l'image construite, nous pouvons l'exécuter, la partager ou la déployer dans un environnement Docker.
 </p>
 <br>
 <img width="577" alt="Capture d'écran 2024-05-22 084303" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/947d4e59-5a46-4744-afe4-b89621be1e37">
