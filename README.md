@@ -27,6 +27,7 @@ Les 12 colonnes représentent des indicateurs clés pour le suivi de la campagne
 
  <img width="222" alt="Capture d'écran 2024-05-22 130822" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/cf89758f-3a10-4699-ac87-64543fc4274e">
 
+ <br>
  <p>
  <ul>
   <li>Le fichier app.py</li>
