@@ -2,8 +2,9 @@
 
 Bienvenue sur ma Web application en streamlit présentant des dashboards issu d'un fichier Excel.
 
-Le fichier Excel est constitué de 6 lignes et 12 colonnes.
 
+<strong>
 <ul>
   <li>Le fichier Excel est constitué de 6 lignes et 12 colonnes.</li>
 </ul>
+</strong>
