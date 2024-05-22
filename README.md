@@ -15,15 +15,10 @@ Les 12 colonnes représentent des indicateurs clés pour le suivi de la campagne
 
 
 
-
-
-
-
-
-
-
-
-
 <strong> Présentation de mon application web developpé avec streamlit de Python </strong>
+
+<ul>
+  <li>Code Source de mon application.</li>
+</ul>
 
 
