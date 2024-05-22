@@ -222,5 +222,53 @@ Cette commande crée et démarre un nouveau conteneur en arrière-plan, à parti
 <img width="745" alt="Capture d'écran 2024-05-22 084328" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/6a7faf1d-a155-4746-91fb-e5beb072854f">
 
 <p>
-La commande <strong>docker container ls -a </strong>strong>(ou docker ps -a) </strong>est utilisée pour lister tous les conteneurs Docker sur votre système, qu'ils soient en cours d'exécution ou arrêtés.
+La commande <strong>docker container ls -a (ou docker ps -a) </strong>est utilisée pour lister tous les conteneurs Docker sur votre système, qu'ils soient en cours d'exécution ou arrêtés.
 </p>
+
+<br>
+<img width="574" alt="Capture d'écran 2024-05-22 084349" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/820edc59-4d9d-44d8-b9f0-39a119456697">
+
+<p>
+La commande <strong>docker image ls (ou docker images)</strong> est utilisée pour lister toutes les images Docker présentes sur votre système local. 
+</p>
+
+
+<p>
+<strong> 
+<li>Accès à la plateforme Docker Hub pour le chargement de l'image locale</li>
+</strong>
+</p>
+
+<br>
+<img width="532" alt="Capture d'écran 2024-05-22 090659" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/d92220ea-2850-44fa-973a-bb4c3f9f5ee5">
+
+<p>
+La commande <strong>docker image tag</strong> est utilisée pour ajouter un tag (ou une étiquette) à une image Docker existante. Les tags sont des moyens pratiques de référencer les images Docker et peuvent inclure des informations telles que la version, l'environnement, ou tout autre identifiant utile.
+</p>
+
+<br>
+<img width="960" alt="Capture d'écran 2024-05-22 085533" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/5383a747-67e7-4db6-b2ee-aa7c20de70ef">
+
+<br>
+<img width="590" alt="Capture d'écran 2024-05-22 092247" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/0e852180-8a87-40cf-a2b0-9539157f89f3">
+
+<p>
+La commande <strong>docker push francklin226/databeezdockerrepo:v1</strong> est utilisée pour pousser (upload) une image Docker locale vers un registre de conteneurs, tel que Docker Hub.
+</p>
+
+<br>
+<img width="522" alt="Capture d'écran 2024-05-22 092431" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/eeb0222e-5170-4685-9f61-0788a4a89d4b">
+
+<br>
+<img width="954" alt="Capture d'écran 2024-05-22 092512" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/13eb8c5e-adc8-4c58-9faf-54e445149acd">
+
+
+<br>
+<img width="553" alt="Capture d'écran 2024-05-22 092904" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/9a7c252b-b417-4ac9-ad41-12d23824351b">
+<p>
+Les images chargées en locale et sur le conteneur Docker Hub.
+</p>
+
+
+
+
