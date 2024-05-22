@@ -176,6 +176,11 @@ Conclusion
 Le code source fournit une application web interactive qui permet aux utilisateurs de visualiser et d'analyser les performances des campagnes publicitaires par différents acteurs. Les utilisateurs peuvent filtrer les données, afficher les principaux indicateurs de performance et examiner plusieurs graphiques interactifs pour mieux comprendre les résultats des campagnes.
 
 
+<p>
+<strong> 
+<li>Le Dockerfile : </li>
+</strong>
+</p>
 
 
 
