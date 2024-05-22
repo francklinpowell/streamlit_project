@@ -79,6 +79,5 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 3. Lecture des données Excel : 
 </p>
 </strong>
-<ul>
 <li>Utilisation de <strong> 'pandas'</strong> pour lire les données d'un fichier Excel. </li> 
 <li>Mise en cache des données pour améliorer les performances avec <strong> '@st.cache_data'</strong>. </li> 
