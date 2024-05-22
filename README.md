@@ -5,9 +5,5 @@ Bienvenue sur ma Web application en streamlit présentant des dashboards issu d'
 Le fichier Excel est constitué de 6 lignes et 12 colonnes.
 
 <ul>
-  <li>Le fichier Excel est constitué de :</li>
-  <ul>
-    <li>6 lignes</li>
-    <li>12 colonnes</li>
-  </ul>
+  <li>Le fichier Excel est constitué de 6 lignes et 12 colonnes.</li>
 </ul>
