@@ -275,4 +275,21 @@ Les images chargées en locale et sur le conteneur Docker Hub.
 <p>Création d'un nouveau conteneur en arrière-plan, avec le port 8501 du conteneur accessible via le port 8502 de votre machine hôte.
 </p>
 
+<br>
+<img width="960" alt="Capture d'écran 2024-05-22 202142" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/dfebe8de-edce-40bd-9f4b-8c78d51629df">
 
+<p>
+<strong>III. Interface de notre application </strong>
+</p>
+
+<br>
+<img width="960" alt="Capture d'écran 2024-05-22 202533" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/97a3b54e-e721-47b8-bff1-b021a766f36b">
+
+<br>
+<img width="956" alt="Capture d'écran 2024-05-22 202811" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/6d3e3c1f-6e27-4cf5-b5cb-2e9b60d64aa7">
+
+<br>
+<img width="960" alt="Capture d'écran 2024-05-22 203005" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/d113337d-0d55-42e5-9d1b-bcb2cee7244a">
+
+<br>
+<img width="960" alt="Capture d'écran 2024-05-22 203145" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/2de97c47-8b1a-43b6-bf72-0207fa31312c">
