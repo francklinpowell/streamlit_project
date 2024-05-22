@@ -201,8 +201,9 @@ Commandes basiques de Docker en ligne de commande
 <br>
 
 
-
+<p>
 <strong>II. Déploiement de mon application Web Streamlit sur Docker </strong>
+</p>
 <br>
 <img width="739" alt="Capture d'écran 2024-05-22 084241" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/311a481c-1a70-40bf-bf80-7813ed44a8ce">
 
