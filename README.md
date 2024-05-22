@@ -48,8 +48,8 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 
 <strong>
 <ul>
-<li>Pandas</li></ul> pour la manipulation des données. 
-<li>Plotly</li></ul> Express pour la visualisation des données. 
-<li>Streamlit</li> </ul>pour créer l'application web interactive.
+<li>Pandas pour la manipulation des données. </li>
+<li>Plotly</li> Express pour la visualisation des données. </li>
+<li>Streamlit pour créer l'application web interactive. </li>
 </ul>
 </strong>
