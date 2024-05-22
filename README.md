@@ -278,7 +278,7 @@ Les images chargées en locale et sur le conteneur Docker Hub.
 <br>
 <img width="960" alt="Capture d'écran 2024-05-22 202142" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/dfebe8de-edce-40bd-9f4b-8c78d51629df">
 
-<br>
+
 <p>
 <strong>III. Interface de notre application </strong>
 </p>
