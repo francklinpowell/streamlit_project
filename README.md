@@ -182,6 +182,7 @@ Le code source fournit une application web interactive qui permet aux utilisateu
 </strong>
 </p>
 
+<img width="535" alt="Capture d'écran 2024-05-22 192608" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/26467a29-bea8-41f5-8593-f69f6d44bddd">
 
 
 
