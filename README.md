@@ -153,7 +153,7 @@ Personnalisation de l'Interface
 </strong>
 </p>
 
-<br>
+
 <p>
 <strong>
 9. Masquage des éléments par défaut de Streamlit :
@@ -168,7 +168,7 @@ Conclusion
 </strong>
 </p>
 
-<br>
+
 Le code source fournit une application web interactive qui permet aux utilisateurs de visualiser et d'analyser les performances des campagnes publicitaires par différents acteurs. Les utilisateurs peuvent filtrer les données, afficher les principaux indicateurs de performance et examiner plusieurs graphiques interactifs pour mieux comprendre les résultats des campagnes.
 
 
