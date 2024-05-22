@@ -41,8 +41,7 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 <strong>Importations et Configuration </strong>
 
 <strong>
-<ul>
-  <li>
-1. Importations : </li>
+<ul>  
+1. Importations : 
 </ul>
 </strong>
