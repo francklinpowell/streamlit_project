@@ -40,12 +40,14 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 
 <strong>Importations et Configuration </strong>
 
+<p>
 <strong>
 <ul>  
 1. Importations : 
 </ul>
 </strong>
-
+</p>
+  
 <strong>
 <ul>
 <li>Pandas pour la manipulation des données. </li>
@@ -56,17 +58,18 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 
 
 
-
+<p>
 <strong>
 <ul> 
 2. Configuration de la page : 
 </ul>
+</p>
 </strong>
 <ul>
-<br>
 <li>Définition du titre, de l'icône et de la mise en page de l'application avec <strong> 'st.set_page_config'.</strong> </li> 
 
-
+<p>
 <strong> 
 <li>Lecture des Données : </li>
 </strong>
+</p>
