@@ -34,7 +34,7 @@ Les 12 colonnes représentent des indicateurs clés pour le suivi de la campagne
 
 
 <img width="747" alt="Capture d'écran 2024-05-22 131052" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/fdee1e63-3705-40d8-8082-15acd1abb641">
- <br>
+ </br>
 Ce fichier app.py présente une application de tableau de bord interactive pour l'analyse des performances de campagnes publicitaires. Voici un résumé de son contenu et de ses fonctionnalités principales :
 
 
