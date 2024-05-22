@@ -119,3 +119,60 @@ Filtrage et Calculs :
 </strong>
 <li>Calcul des principaux indicateurs de performance (KPI) : total des recrues, coût moyen par recrue, budget total dépensé et taux de conversion moyen. </li> 
 <li>Affichage de ces KPI dans une disposition en colonnes. </li> 
+
+<br>
+<p>
+<strong> 
+Visualisations
+</strong>
+</p>
+
+<br>
+<p>
+<strong>
+7. Graphiques principaux :
+</p>
+</strong>
+<li>Graphique en barres des recrues par acteur. </li> 
+<li>Graphique combiné montrant le budget dépensé et le coût par recrue par acteur. </li> 
+
+<br>
+<p>
+<strong>
+8. Visualisations complémentaires :
+</p>
+</strong>
+
+<li>Graphiques supplémentaires pour les pourcentages de budget, taux de conversion, impressions, et taux de clics par acteur. </li> 
+<li>Vérification de la présence des colonnes nécessaires pour ces visualisations et affichage d'erreurs en cas de données manquantes. </li> 
+
+<br>
+<p>
+<strong> 
+Personnalisation de l'Interface
+</strong>
+</p>
+
+<br>
+<p>
+<strong>
+9. Masquage des éléments par défaut de Streamlit :
+</p>
+</strong>
+<li>Masquage du menu principal, du pied de page et de l'en-tête de Streamlit pour une présentation plus propre. </li> 
+
+<br>
+<p>
+<strong> 
+Conclusion
+</strong>
+</p>
+
+<br>
+Le code source fournit une application web interactive qui permet aux utilisateurs de visualiser et d'analyser les performances des campagnes publicitaires par différents acteurs. Les utilisateurs peuvent filtrer les données, afficher les principaux indicateurs de performance et examiner plusieurs graphiques interactifs pour mieux comprendre les résultats des campagnes.
+
+
+
+
+
+
