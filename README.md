@@ -61,8 +61,6 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 <ul>
 <li>Définition du titre, de l'icône et de la mise en page de l'application avec <strong> 'st.set_page_config'.</strong> </li> 
 
-<strong>
-<ul>  
+<strong> 
 <li>Lecture des Données : </li>
-</ul>
 </strong>
