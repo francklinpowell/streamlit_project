@@ -76,8 +76,6 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 
 <p>
 <strong>
-<ul> 
 2. Configuration de la page : 
-</ul>
 </p>
 </strong>
