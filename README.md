@@ -75,10 +75,9 @@ Ce fichier app.py présente une application de tableau de bord interactive pour 
 </p>
 
 <p>
-<br>
 <strong>
 <ul> 
-3. Lecture des données Excel :
+2. Configuration de la page : 
 </ul>
-</strong>
 </p>
+</strong>
