@@ -110,3 +110,11 @@ Filtrage et Calculs :
 </strong>
 <li>Filtrage des données en fonction des acteurs sélectionnés. </li> 
 <li>Vérification si le filtre retourne des données vides et affichage d'un avertissement le cas échéant. </li> 
+
+<p>
+<strong>
+6. Calcul des KPI : 
+</p>
+</strong>
+<li>Calcul des principaux indicateurs de performance (KPI) : total des recrues, coût moyen par recrue, budget total dépensé et taux de conversion moyen. </li> 
+<li>Affichage de ces KPI dans une disposition en colonnes. </li> 
