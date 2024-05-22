@@ -217,3 +217,10 @@ Cette commande construit une image Docker à partir d'un Dockerfile situé dans 
 <p>
 Cette commande crée et démarre un nouveau conteneur en arrière-plan, à partir de l'image <strong>francklinprojetstreamlit</strong>, avec le port 8501 du conteneur accessible via le port 8501 de votre machine hôte. Le conteneur est nommé <strong>mystreamlitapp</strong>.
 </p>
+
+<br>
+<img width="745" alt="Capture d'écran 2024-05-22 084328" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/6a7faf1d-a155-4746-91fb-e5beb072854f">
+
+<p>
+La commande <strong>docker container ls -a </strong>strong>(ou docker ps -a) </strong>est utilisée pour lister tous les conteneurs Docker sur votre système, qu'ils soient en cours d'exécution ou arrêtés.
+</p>
