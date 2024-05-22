@@ -111,6 +111,7 @@ Filtrage et Calculs :
 <li>Filtrage des données en fonction des acteurs sélectionnés. </li> 
 <li>Vérification si le filtre retourne des données vides et affichage d'un avertissement le cas échéant. </li> 
 
+<br>
 <p>
 <strong>
 6. Calcul des KPI : 
