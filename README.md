@@ -269,6 +269,10 @@ La commande <strong>docker push francklin226/databeezdockerrepo:v1</strong> est 
 Les images chargées en locale et sur le conteneur Docker Hub.
 </p>
 
+<br>
+<img width="772" alt="Capture d'écran 2024-05-22 095159" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/d4b8a3d1-3f40-4053-b214-b9c1d629dd77">
 
+<p>Création d'un nouveau conteneur en arrière-plan, avec le port 8501 du conteneur accessible via le port 8502 de votre machine hôte.
+</p>
 
 
