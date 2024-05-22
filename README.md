@@ -95,3 +95,18 @@ Interface Utilisateur :
 </p>
 </strong>
 <li>Ajout d'une fonctionnalité de filtrage pour sélectionner les acteurs spécifiques à partir d'une liste déroulante. </li> 
+
+<br>
+<p>
+<strong> 
+Filtrage et Calculs : 
+</strong>
+</p>
+
+<p>
+<strong>
+Filtrage des données : 
+</p>
+</strong>
+<li>Filtrage des données en fonction des acteurs sélectionnés. </li> 
+<li>Vérification si le filtre retourne des données vides et affichage d'un avertissement le cas échéant. </li> 
