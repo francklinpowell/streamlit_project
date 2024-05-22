@@ -1,4 +1,4 @@
-# Création d'une Web App en streamlit présentant le suivi de performance des campagnes publicitaires
+# Création d'une Web App en streamlit présentant le suivi de performance des campagnes publicitaires d'entreprises 
 
 Bienvenue sur ma Web application en streamlit présentant des dashboards issu d'un fichier Excel.
 
@@ -22,3 +22,17 @@ Les 12 colonnes représentent des indicateurs clés pour le suivi de la campagne
 </ul>
  </strong>
 
+ Voici le repertoire de mon application sur Visual Studio Code
+
+
+ <img width="222" alt="Capture d'écran 2024-05-22 130822" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/cf89758f-3a10-4699-ac87-64543fc4274e">
+
+ <ul>
+  <li>Le fichier app.py</li>
+</ul>
+
+
+
+<img width="747" alt="Capture d'écran 2024-05-22 131052" src="https://github.com/francklinpowell/streamlit_project/assets/170517545/fdee1e63-3705-40d8-8082-15acd1abb641">
+
+Ce fichier app.py présente une application de tableau de bord interactive pour l'analyse des performances de campagnes publicitaires. Voici un résumé de son contenu et de ses fonctionnalités principales :
